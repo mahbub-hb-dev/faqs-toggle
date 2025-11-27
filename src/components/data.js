@@ -16,7 +16,7 @@ const faqsData = [
     },
     {
         id : 4,
-        title : "What do you do in your free time ?",
+        title : "Do you like playing ?",
         desc : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae at soluta veritatis quam voluptatum? Sint dolores mollitia consequatur!"
     },
 ]
